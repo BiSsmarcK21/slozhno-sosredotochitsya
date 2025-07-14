@@ -2,3 +2,19 @@
   Переменные для вашего проекта
   и их переопределение под различные устройства
 */
+:root {
+    --bacground-color: #000028;
+    --header-title: #DB00FF;
+    --text-shadow: #FF0070;
+    --header-nav: #FF0070;
+    --heading-box: #FF0070;
+    --heading-text: #000028;
+    --main-text: #F1B2CE;
+    --main-title: #FF0070;
+    --corners: #FF0070;
+    --rec-text: #FF0070;
+
+    --accent-text: IBM Plex mono;
+    --bacground: url("../images/cover-image-dark.png");
+    --visibility: visible;
+}
